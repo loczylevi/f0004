@@ -1,0 +1,1 @@
+print(1,2,3,sep=' ') # szoval a sep utáni veszök között megadot string lesz a számok közötha space van akkor a veszök helyet spacet rak!
